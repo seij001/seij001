@@ -5,16 +5,13 @@
 - 🔬 I have research experience in **digital biomarkers** and **AR/VR for healthcare applications**, focusing on context-aware augmented reality systems and biomedical sensing. My work has been published in IEEE conferences and journals, covering topics such as surgical guidance using AR and physiological responses in immersive environments.
 
   - **[Augmented Reality-based Contextual Guidance through Surgical Tool Tracking in Neurosurgery](https://pubmed.ncbi.nlm.nih.gov/38635386/)**  
-    S. Eom, S. Kim, J. Jackson, D. Sykes, S. Rahimpour, M. Gorlatova,  
-    **IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024**.  
+    S. Eom, S. Kim, J. Jackson, D. Sykes, S. Rahimpour, M. Gorlatova, **IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024**.  
 
   - **[Investigation of Thermal Perception and Emotional Response in Augmented Reality using Digital Biomarkers: A Pilot Study](https://ieeexplore.ieee.org/document/10108744)**  
-    S. Eom, S. Kim, Y. Jiang, Z. Rosenthal, J. Dunn, M. Gorlatova,  
-    **Proc. IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Mar. 2023**.  
+    S. Eom, S. Kim, Y. Jiang, Z. Rosenthal, J. Dunn, M. Gorlatova, **Proc. IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Mar. 2023**.  
 
   - **[AR-Assisted Surgical Guidance System for Ventriculostomy](https://ieeexplore.ieee.org/abstract/document/9757461)**  
-    S. Eom, S. Kim, S. Rahimpour, M. Gorlatova,  
-    **Proc. IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Mar. 2022**.  
+    S. Eom, S. Kim, S. Rahimpour, M. Gorlatova, **Proc. IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Mar. 2022**.  
 
 
 📫 **Let's connect!**
