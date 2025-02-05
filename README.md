@@ -8,11 +8,11 @@
 - 📧 Email: sjtoktok@gmail.com
 
 🎨 **Fun Facts About Me!**  
-- When I’m not coding, I'm always working on my next art project 🖌️
-- I love painting —both physically and digitally— while listening to way too much music! 🎶🎨   
-- Recently started recording vocals and teaching myself how to mix audio tracks — DIY music producer in the making!🎤🎧  
-- Obsessed with podcasts about human and animal psychology 🧠🐾  
-- Hitting the gym so I can finally do **more than two** push-ups! 💪😆
+- When I’m not coding, I’m always working on my next art project. 🖌️  
+- I love painting —both physically and digitally— while listening to way too much music! 🎶🎨  
+- I recently started recording vocals and teaching myself how to mix audio tracks! 🎤🎧  
+- I’m obsessed with podcasts about human and animal psychology. 🧠🐾  
+- I’ve been hitting the gym so I can finally do **more than two** push-ups! 💪😆
 
 <!--
 **seij001/seij001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
