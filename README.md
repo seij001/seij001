@@ -8,10 +8,10 @@
 - 📧 Email: sjtoktok@gmail.com
 
 🎨 **Fun Facts About Me!**  
-- When I’m not coding, I'm always working on my next **art project** 🖌️
-- I love **painting**—both physically and digitally— while listening to way too much music! 🎶🎨   
-- Recently started **recording vocals** and teaching myself how to **mix audio tracks** — DIY music producer in the making!🎤🎧  
-- Obsessed with podcasts about **human and animal psychology** 🧠🐾  
+- When I’m not coding, I'm always working on my next art project 🖌️
+- I love painting —both physically and digitally— while listening to way too much music! 🎶🎨   
+- Recently started recording vocals and teaching myself how to mix audio tracks — DIY music producer in the making!🎤🎧  
+- Obsessed with podcasts about human and animal psychology 🧠🐾  
 - Hitting the gym so I can finally do **more than two** push-ups! 💪😆
 
 <!--
