@@ -17,6 +17,7 @@
 📫 **Let's connect!**
 - 💼 [LinkedIn](https://www.linkedin.com/in/seijungkim/)
 - 📧 Email: sjtoktok@gmail.com
+- [Devpost](https://devpost.com/sjtoktok?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 <!--
 **seij001/seij001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
