@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Seijung!
 
 - 🎓 I have a Master’s degree in **Biomedical Engineering** and a Bachelor’s degree in **Biomedical Engineering & Computer Science** (double major) from Duke University. 
-- 💡 I’m actively seeking opportunities in **data science, software engineering, and biomedical engineering**, and my interests are particularly in **digital health and machine learning for healthcare applications**.
+- 💡 I’m actively seeking opportunities in **data science**, and my interests are particularly in **digital health and machine learning for healthcare applications**.
 - 🔬 I have research experience in **digital biomarkers** and **AR/VR for healthcare applications**, focusing on context-aware augmented reality systems and biomedical sensing. My work has been published in IEEE conferences and journals, covering topics such as surgical guidance using AR and physiological responses in immersive environments.
 
   - [Augmented Reality-based Contextual Guidance through Surgical Tool Tracking in Neurosurgery](https://pubmed.ncbi.nlm.nih.gov/38635386/) 
